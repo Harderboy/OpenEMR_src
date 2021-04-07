@@ -16,7 +16,7 @@
         "adodb/adodb-php" : "5.20.10",
         "phpmailer/phpmailer" : "5.2.16",
         "rospdf/pdf-php" : "0.12.22",
-        "phpseclib/phpseclib" : "2.0.10",
+        "phpseclib/phpseclib" : "2.0.31",
         "zendframework/zendframework" : "2.5.3",
         "phenx/php-font-lib" : "0.4",
         "phenx/php-svg-lib" : "0.1",
