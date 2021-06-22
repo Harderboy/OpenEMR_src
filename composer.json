@@ -14,7 +14,7 @@
         "adldap2/adldap2" : "7.0.4",
         "smarty/smarty" : "2.6.31",
         "adodb/adodb-php" : "5.20.10",
-        "phpmailer/phpmailer" : "5.2.16",
+        "phpmailer/phpmailer" : "6.5.0",
         "rospdf/pdf-php" : "0.12.22",
         "phpseclib/phpseclib" : "2.0.10",
         "zendframework/zendframework" : "2.5.3",
