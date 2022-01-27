@@ -1,10 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9dbff2d703f375020d68b4c3d944d1c7",
+    "content-hash": "11f1036b3686312664bd848e2a3af58a",
     "packages": [
         {
             "name": "adldap2/adldap2",
@@ -60,16 +60,16 @@
         },
         {
             "name": "adodb/adodb-php",
-            "version": "v5.20.10",
+            "version": "v5.20.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ADOdb/ADOdb.git",
-                "reference": "2db8794c142ecc9ca9c5398737bb35ca39031fe3"
+                "reference": "6c38e6c614802acd3151444a71191912edcec965"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ADOdb/ADOdb/zipball/2db8794c142ecc9ca9c5398737bb35ca39031fe3",
-                "reference": "2db8794c142ecc9ca9c5398737bb35ca39031fe3",
+                "url": "https://api.github.com/repos/ADOdb/ADOdb/zipball/6c38e6c614802acd3151444a71191912edcec965",
+                "reference": "6c38e6c614802acd3151444a71191912edcec965",
                 "shasum": ""
             },
             "require": {
@@ -110,7 +110,11 @@
                 "library",
                 "php"
             ],
-            "time": "2018-03-08T22:32:18+00:00"
+            "support": {
+                "issues": "https://github.com/ADOdb/ADOdb/issues",
+                "source": "https://github.com/ADOdb/ADOdb"
+            },
+            "time": "2022-01-22T22:38:02+00:00"
         },
         {
             "name": "container-interop/container-interop",
@@ -7043,5 +7047,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "2.2.0"
 }
