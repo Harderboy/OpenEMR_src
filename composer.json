@@ -24,7 +24,7 @@
         "doctrine/common" : "2.5.0",
         "doctrine/couchdb" : "1.0-beta2",
         "doctrine/orm" : "2.5.5",
-        "twig/twig" : "1.33.*",
+        "twig/twig" : "1.44.*",
         "vlucas/phpdotenv" : "2.4",
         "symfony/config" : "2.8.*",
         "symfony/dependency-injection" : "2.8.*",
